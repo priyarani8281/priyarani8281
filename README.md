@@ -47,7 +47,7 @@ B.Tech CSE (Data Science) Student | Web Developer | Open Source Enthusiast</h3>
 
 🔥 Smoke Detector System
 
-🛍️ E-Commerce Website (Work in Progress)
+🛍️ E-Commerce Website in wordpress (Work in Progress)
 
 ---
 
