@@ -1,16 +1,69 @@
-## Hi there 👋
+Hi 👋, I'm Priya Kumari
+B.Tech CSE (Data Science) Student | Web Developer | Open Source Enthusiast</h3>
 
-<!--
-**priyarani8281/priyarani8281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓Pursuing  B.Tech in Computer Science & Engineering (Data Science)
+
+💻 Passionate about Web Development, DSA in C++, and Open Source.
+
+🌱 Currently learning:
+- Full stack web development
+- Data Structures & Algorithms in c++
+- Open Source development
+
+🎯 My Goals:
+- 🚀 Get selected for LFX Mentorship and gsoc 
+- 🌍 Become an active Open Source Contributor
+- 💼 Focused on becoming a skilled software engineer Through continuous learning and real-world projects
+- 📚 Keep learning and building impactful projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+- JavaScript
+- HTML5
+- CSS3
+  
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+🌌 Solar System Animation
+
+💊 Medicine Reminder (Hackathon Project)
+
+🔥 Smoke Detector System
+
+🛍️ E-Commerce Website (Work in Progress)
+
+---
+
+## 📈 Currently Working On
+
+- Open Source Contributions
+- JavaScript
+- DSA in C++
+- Building Real-world Projects
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: pr3044727@gmail.com
+
+---
+
+⭐ *"Learning one step at a time, building for the future."*
