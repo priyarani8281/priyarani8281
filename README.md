@@ -14,11 +14,7 @@ B.Tech CSE (Data Science) Student | Web Developer | Open Source Enthusiast</h3>
 - Data Structures & Algorithms in c++
 - Open Source development
 
-🎯 My Goals:
-- 🚀 Get selected for LFX Mentorship and gsoc 
-- 🌍 Become an active Open Source Contributor
-- 💼 Focused on becoming a skilled software engineer Through continuous learning and real-world projects
-- 📚 Keep learning and building impactful projects
+
 
 ---
 
